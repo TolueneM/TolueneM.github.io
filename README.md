@@ -1,4 +1,5 @@
-# Flex-and-grid
+# media and responsivess
+
 Zuri assignment
 This is for media and responsiveness
 
