@@ -1,3 +1,4 @@
 # Flex-and-grid
 Zuri assignment
-https://github.com/TolueneM
+This is for media and responsiveness
+
